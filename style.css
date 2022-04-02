@@ -1,0 +1,145 @@
+body {
+    margin: 0 10%;
+}
+section {
+    border: 3px black solid;
+    margin: 10px;
+    padding: 10px;
+    width: auto;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Comfortaa';
+}
+h3 {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Exo', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 5px;
+}
+.colors div  {
+    display: inline-block;
+    padding: 10px;
+ }
+
+
+/*COLORS*/
+.colors li {
+    margin: 5px;
+    padding: 20px;
+}
+/*Natural*/
+.c-629b4e {
+    background-color:#629b4e;
+}
+.c-c8873a {
+    background-color:#c8873a;
+}
+.c-a6a03b {
+    background-color:#a6a03b;
+}
+.c-b5a375 {
+    background-color:#b5a375;
+}
+.c-bde389 {
+    background-color:#bde389;
+}
+/*Night*/
+.c-1e3753 {
+    background-color:#1e3753;
+    color: white;
+}
+.c-214650 {
+    background-color:#214650;
+    color: white;
+} 
+.c-384659 {
+    background-color:#384659;
+    color: white;
+}
+.c-5d7387 {
+    background-color:#5d7387;
+    color: white;
+}
+.c-97aec3 {
+    background-color:#97aec3;
+}
+/*Summer*/
+.c-dfc47b {
+    background-color:#dfc47b;
+}
+.c-efc661 {
+    background-color:#efc661;
+}
+.c-f6cf89 {
+    background-color:#f6cf89;
+}
+.c-e7db6e {
+    background-color:#e7db6e;
+}
+.c-e3df8e {
+    background-color:#e3df8e;
+}
+
+/*FONTS*/
+.font-group {
+    width: 45%;
+}
+.source-sans-pro {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rubik-glitch {
+    font-family: 'Rubik Glitch';
+}
+
+.comfortaa {
+    font-family: 'Comfortaa';
+}
+
+.exo {
+    font-family: 'Exo', sans-serif;
+}
+
+.fw400 {
+    font-weight: 400;
+}
+
+.fw700 {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/*TEXT STYLES*/
+.h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Comfortaa';
+}
+
+.p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Exo', sans-serif;
+}
